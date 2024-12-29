@@ -31,6 +31,12 @@ All sensors are also marked as diagnostic and won't be automatically added to au
 
 {% endnote %}
 
+### Enable entity
+1. Navigate to System Monitor integration.
+2. Select entity.
+3. Click on gear icon.
+4. Toggle "Enable" to ON/OFF.
+
 ### Disks
 
 - Disk free - (One per disk/mount point)
